@@ -49,7 +49,7 @@ AdView Example:
 ```
 ...
 Unit Id:
-      ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+      ca-app-pub-3940256099942544/6300978111
 ...
 App Id: 
       ca-app-pub-3940256099942544~3347511713
